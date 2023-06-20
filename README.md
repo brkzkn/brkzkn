@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’ve 8+ years of experience in software developer/architect on a diverse group of companies. I have operational and leadership experience in cloud-based software application development & architecture, database management, and product development.
+I’ve 10+ years of experience in software developer/architect on a diverse group of companies. I have operational and leadership experience in cloud-based software application development & architecture, database management, and product development.
 
 I absolutely love programming, from designing system architecture for full-stack apps to diving deep into frameworks and problem-solving. I enjoy working on fun, collaborative teams that focus on the optimization of applications and integrating additional features.
 
